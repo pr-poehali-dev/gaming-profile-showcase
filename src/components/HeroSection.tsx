@@ -38,10 +38,8 @@ const HeroSection = () => {
 
         <div className="text-retro-cyan text-xl mb-2 font-mono"></div>
 
-        <div className="text-retro-green text-lg mb-8 animate-scroll-left whitespace-nowrap">
-          ”`”*°•. `”*°••°*”` .•°*”`”*°•. `”*°••°*”` `”*°••`”*°•.
-          •°*”`.•°*”`*ЛОВИ ПОЗИТИФФ*`”*°•.`”*°•. .•°*”` .•°*”` .•°*”` `”*°•.
-          `”*°•. `”*° `”*°••`”*°•.
+        <div className="text-retro-green text-lg mb-8 animate-scroll-left whitespace-nowrap mx-0">
+          •● W E L C O M E- T O -M Y -P R O F I L E ●•
         </div>
 
         {/* Quick stats */}
