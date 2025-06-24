@@ -48,7 +48,7 @@ const HeroSection = () => {
             <div className="text-3xl font-bold text-retro-amber neon-text">
               LVL
             </div>
-            <div className="text-4xl font-bold text-white">42</div>
+            <div className="text-4xl font-bold text-white">999</div>
           </div>
           <div className="text-center">
             <div className="text-3xl font-bold text-retro-pink neon-text">
