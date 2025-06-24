@@ -11,7 +11,7 @@ const StatsSection = () => {
     {
       icon: "Trophy",
       label: "Игр пройдено",
-      value: "89",
+      value: "999",
       color: "text-retro-amber",
     },
     {
