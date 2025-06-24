@@ -23,7 +23,7 @@ const HeroSection = () => {
         {/* Avatar */}
         <div className="w-32 h-32 mx-auto mb-8 bg-gradient-to-br from-retro-purple to-retro-cyan pixel-border border-retro-green shadow-neon-lg rounded-pixel relative">
           <div className="w-full h-full flex items-center justify-center text-6xl animate-pixel-pulse">
-            🎮
+            💀
           </div>
           <div className="absolute -top-2 -right-2 w-6 h-6 bg-retro-green rounded-full animate-pulse"></div>
         </div>
