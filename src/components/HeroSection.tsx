@@ -30,7 +30,7 @@ const HeroSection = () => {
 
         {/* Name and title */}
         <h1
-          className="text-6xl font-bold mb-4 neon-text text-retro-purple glitch-text"
+          className="text-6xl font-bold mb-4 neon-text text-retro-purple glitch-text text-center"
           data-text="ИГРОК_2024"
         >
           ♰bastarddemon♰
