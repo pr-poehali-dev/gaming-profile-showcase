@@ -36,9 +36,7 @@ const HeroSection = () => {
           ♰bastarddemon♰
         </h1>
 
-        <div className="text-retro-cyan text-xl mb-2 font-mono">
-          &gt; КАЗУАЛЬНЫЙ_ГЕЙМЕР.EXE
-        </div>
+        <div className="text-retro-cyan text-xl mb-2 font-mono"></div>
 
         <div className="text-retro-green text-lg mb-8 animate-scroll-left whitespace-nowrap">
           ★ ЛЮБИТЕЛЬ ПИКСЕЛЬНЫХ ПРИКЛЮЧЕНИЙ ★ КОЛЛЕКЦИОНЕР ДОСТИЖЕНИЙ ★
