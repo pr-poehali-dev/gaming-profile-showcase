@@ -33,7 +33,7 @@ const HeroSection = () => {
           className="text-6xl font-bold mb-4 neon-text text-retro-purple glitch-text"
           data-text="ИГРОК_2024"
         >
-          ИГРОК_2024
+          ♰bastarddemon♰
         </h1>
 
         <div className="text-retro-cyan text-xl mb-2 font-mono">
